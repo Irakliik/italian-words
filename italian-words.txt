@@ -424,14 +424,13 @@ denaro - money
 fila - row (რიგი)
 frequentare -
 compagno - mate
-estiva - ზაფხულის
-ricevimento
-approfondire
-sonaggio
-percorso
-argomenti
-ovunque
-partenza
+estivo - ზაფხულის
+approfondire - go into detail
+sondaggio - survey
+percorso - path
+argomento - საკითხი
+ovunque - ყველგან
+partenza - departure
 
 
 
