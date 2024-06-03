@@ -431,6 +431,13 @@ percorso - path
 argomento - საკითხი
 ovunque - ყველგან
 partenza - departure
+ognuno - everyone
+chiunque - anyone
+malato - sick
+gridare - to shout
+sussurrare - to whisper
+ricevere - to recieve
+
 
 
 
