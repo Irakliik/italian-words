@@ -437,10 +437,12 @@ malato - sick
 gridare - to shout
 sussurrare - to whisper
 ricevere - to recieve
-
-
-
-
+spaventoso - frightening
+coda - tail
+capo - boss
+schermo - screen
+A proposito - by the way
+suono - sound
 
 
  
