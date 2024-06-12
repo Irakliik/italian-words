@@ -443,7 +443,50 @@ capo - boss
 schermo - screen
 A proposito - by the way
 suono - sound
-
+rialzo - rise
+accadere - to happen
+scattare - take a picture
+indagare - to investigate
+pure - also
+confronto - comparison
+segno - sign
+corsa - race
+arrestare - to stop
+richiesta - request
+formazione - education
+presto - soon
+ruolo - role
+termine - end
+proseguire - to continue
+denuncia - complaint
+riprendere - get back, resume
+entrambi - both
+coppia - couple
+inchiesta - investigation
+denunciare - to report
+sviluppo - development
+soltanto - only
+contare - to count
+ottimo - very good
+gratuito - free
+spesa - expense
+battaglia - battle
+apparire - to appear
+quotidiano - daily
+giudice - judge
+speranza - hope
+nemmeno - not even
+provvedimento - measure
+sconfitta - defeat
+disponibile - availabe
+pericolo - danger
+dichiarare - to declare
+parere - to seem
+valere - to be worth
+recuperare - to recover
+rapire - to kidnap
+sdraiarsi - to lie down
+sopravvivere - to survive
 
  
 
