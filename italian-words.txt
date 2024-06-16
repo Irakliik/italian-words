@@ -487,6 +487,56 @@ recuperare - to recover
 rapire - to kidnap
 sdraiarsi - to lie down
 sopravvivere - to survive
+attualmente - currently
+svolgere - carry out
+eppure - and yet, but yet
+serio - serious
+solito - usual
+risalire - date back to 
+occorrere - to be required
+trattativa - negotiation
+fissare - to set, fixate on
+terminare - to end
+lotta - struggle
+precedente - previous
+droga - drug
+segnare - to mark
+fermo - fixed
+appunto - precisely
+avvio - start
+avversario - opponent
+previsione = forecast
+rappresentare - represent
+cedere - to surrender
+migliorare - to improve
+cacciare - to hunt
+soccorso - rescue
+piuttosto - rather
+appena - just
+altrimenti - otherwise-
+fuga - escape
+rifiuto - rejection
+volo - flight
+disagio - discomfort
+ritardo - delay
+terremoto - earthquake
+porre - put
+sangue - blood
+ritiro - withdrawal
+grosso - big
+sala - room
+tale - such
+preoccupazione - worry
+quota - amount
+popolo - people
+effettuare - to make
+ulteriore - further
+furto - theft
+meritare - to deserve
+ribasso - depreciation
+rientrare - return
+contento - pleased
+terreno - ground
 
  
 
