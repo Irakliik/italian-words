@@ -520,7 +520,7 @@ volo - flight
 disagio - discomfort
 ritardo - delay
 terremoto - earthquake
-porre - put
+porre - to put
 sangue - blood
 ritiro - withdrawal
 grosso - big
@@ -537,6 +537,28 @@ ribasso - depreciation
 rientrare - return
 contento - pleased
 terreno - ground
+contenuto - content
+familiare - relative
+guardia - guard
+prestazione - performance
+affare - business, matter
+ritrovare - to find
+sanità - healthcare
+giungere - to come
+regia - direction
+scudetto - championship
+tappa - stage
+smentire - to deny
+pensiero - thought
+mantenere - to keep
+neppure - not even
+tassa - tax
+né - neither ... nor
+accertamento - verification
+chiarire - to clarify
+incendio - fire
+intero - entire
+convegno - meeting
 
  
 
