@@ -597,6 +597,34 @@ fantasma - ghost
 annegare - to drown
 risparmiare - to save
 lampo - lightning
+riposare - to rest
+catena - chain
+unirsi - to join
+contenere - to contain
+impiegare - to use
+occhiata - look
+mittente - sender
+successivo - following
+paragonare - to compare
+rendere - to make
+precedente - previous
+pertanto - therefore
+nuovamente - again
+attenuare - to mitigate
+respingere - to reject
+rallentare - to slow down
+assicurarsi - to make sure
+spostare - to move
+intrappolato - trapped
+convenire - to aggree, to suit
+trappola - trap
+perciò - therefore
+tesa - tense
+Ad eccezione di - except
+ce n’è una - there is one
+infilare - to insert
+vergogna - shame
+
 
  
 
