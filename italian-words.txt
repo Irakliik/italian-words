@@ -714,7 +714,7 @@ lamentarsi - to complain
 abituarsi a - to get used to
 cominciare con - 
 cominciare a - 
-autare a - 
+aiutare a - 
 chiedere di -
 sapere di - 
 temere di - 
@@ -722,9 +722,34 @@ riuscire a -
 cercare di - to try to
 dimenticarsi di - 
 dubitare di - 
+continuare a - 
+domandare di -
+finire di -
 avrei dovuto andare - we should have gone
 dispiacersi di -
-
+finire per -
+dire di -
+restare/rimanere a -
+permettersi di -
+pregare di - to beg
+stare a -
+stare per -
+divertirsi a -
+sognare di - to dream
+mettersi a - to get myself
+insegnare a - 
+sponda - shore
+approfittare - to take advantage of
+sentiero - path
+bosco - woods
+condurre - to lead
+spaccare - to break
+sosta - stop
+spalla - shoulder
+bugia - lie
+sfuggirsi - to escape
+Scomparire - to disappear
+proporre - to propose
 
 
 
